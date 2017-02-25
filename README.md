@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# Proposal - JavaScript Development and Outreach 
+### Overview
+This is a very simple proposal.  I am offering full-time coding, and JavaScript developer outreach, for Dash for the month of March.  I am requesting 85 DASH in return, which is below market rate.  See sections below for further detail.
 
-You can use the [editor on GitHub](https://github.com/dashcommunity/proposal-js-dev-and-outreach/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Background & Motivation
+##### Proposal History
+This is my second treasury proposal.  The [first](https://dashcommunity.github.io/proposal-dash-community/) involved setting up infrastructure, content, and very basic websites for [community](https://github.com/dashcommunity) use.  In addition to the scope I proposed and delivered, I have been working on a user-friendly [web editor](https://dashcommunity.github.io/blog/compose/) for the dash community blog.  The basic functionality is complete, but several features and user workflow improvments are still in the works.  Up until now blogging activity has been limited due to the difficulty of creating and submitting entries.  Users had to use markdown syntax and make GitHub pull requests - too complicated.  When completed, the blog will be easily accessible to all.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+That is just background on my past activites for Dash.  This proposal is *not* seeking reimbursement for the additional work described above, rather this is aimed at *future* work on separate project ideas, outlined below.
 
-### Markdown
+##### About Me
+I came across bitcoin in March of 2013 (just about to hit my 4-year anniversary!) and from that time on the technology and social implications have consumed me.  I managed to juggle my full-time gig with cryptocurrency as a side hobby for a while, but ultimately I conceded and left my 7-year energy efficiency engineering career behind to jump both feet into cryptocurrency.  I dusted off some old C++ and Visual Basic for Applications (VBA) skills I used in college and my last job, then went on to research the current industry trends.  Based on my research I decided learn and focus solely on JavaScript (JS) and NodeJS.  I put my new skills to public use first with the blogging platform mentioned above.  I'm now ready to start working on Dash-specific coding projects, and I want to work full time for the masternode operators.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##### Vision
+Through my research I discovered an explosive upward trend in the JS community.  It is orders of magnitude larger than the entire cryptocurrency space, and like Dash, it is growing and evolving incredibly fast.  Both Dash and JavaScript are designed (relative to their respective sibling technolgies) *specifically* to provide end users with an attractive *user experience* (UX).  This (amongst other things) makes JS essential to Dash's success.  
 
-```markdown
-Syntax highlighted code block
+The core development team is hiring JS developers to work on Evolution.  This is a great start in delivering user-friendly interfaces for Dash.  There are *many* more tools, products, and services for JS developers to build for Dash. I'd like to launch a focussed effort to attract JS developers to Dash, and start building useful tools together.  All projects will be community owned and hosted on dash community where anyone is welcome to contribute.
 
-# Header 1
-## Header 2
-### Header 3
+There is a disproportionately large number of developers where I live.  Some of the most prominent and influential JS developers are local, and I'd like to pave a path to get them involved with Dash.  Building such a team would have the added benefit of providing the Core team a pool of coders to pull from if/when desired.
 
-- Bulleted
-- List
+Dash masternode operators (MNOs) hiring full time non-"Core" employees could offer far-reaching community-wide benefits if the concept is executed well.  The JS/Node team I am focussing on could serve as a model that other specialized teams could follow.  As new governance features roll out with Sentinel they could be tested within these organizations. 
 
-1. Numbered
-2. List
+### Scope
+Salaried work sometimes implies looser scopes, schedules, and budgets than contract work, but this does not need to be the case.  I intend to provide measurable targets in terms of scope of work and deliverable schedules, assuming MNOs see value in this.  I will offer product suggestions for MNOs to consider.  However, a simple platform for taking suggestions *from* MNOs and community members could also be developed.  My initial suggestions include items I've discussed with a Core developer.  This does not imply endorsement of this proposal, just that the work might be beneficial).  The scope of work is shown below, in order of priority.  I am open to changing these based on MNO feedback.
 
-**Bold** and _Italic_ and `Code` text
+##### InstantSend Broadcasting
+The [bitcore-p2p-dash](https://github.com/dashpay/bitcore-p2p-dash) library is now capable of InstantSend transactions as of just over a week ago.  This [instantsend-broadcast](https://github.com/snogcel/instantsend-broadcast) repository implements this at a "proof-of-concept" stage.  With some additional work this could begin to be integrated elsewhere.  The first thing I'd like to work on is creating a user interface using this library.  This would allow users to go to a website, create private keys and public addresses and send transactions using them, including InstantSend transactions.
 
-[Link](url) and ![Image](src)
-```
+##### Community JS Developer Engagement
+This is the effort I described in the Vision section above.  Essentially this would be adding JS developers to the dashcommunity GitHub repo, and encouraging them to contribute.  At first I will focus on simply getting them in the organization and familiar with Dash in general, and the specific projects we're working on.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+##### Dash Payment Processor
+As time allows, I would like to improve and help maintain the [Dash Payment Processor repository](https://github.com/snogcel/dash-payment-processor/issues).
 
-### Jekyll Themes
+### Schedule
+* Work will commence March 1
+* I will work full time through the end of the month (160+ hours)
+* This proposal seeks funding for a 1 Month trial period, but I intend to work as long as masternode operators find value in my work; I will submit separate proposals for any ongoing work
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dashcommunity/proposal-js-dev-and-outreach/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Budget
+* One-time payment of 85 DASH
+  * Personal salary: 80 DASH (80 DASH/160 hrs = 0.5 DASH/hr | ~12.50 USD/hr @ 25 USD/DASH)
+  * Proposal reimbursement: 5 DASH
+  * I will use part of the 80 DASH to tip JS devs as they come into the fold
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Closing
+As we all know, Dash has enormous potential.  Focussing on user-friendliness is one of our most effective tactics, and having a strong JavaScript workforce will help with this.  The JS community is huge, and most of them are not involved with any cryptocurrency project.  I'd like them to find a home in Dash.
