@@ -4,15 +4,15 @@ This is a very simple proposal.  I am offering full-time coding, and JavaScript 
 
 ### Background & Motivation
 ##### Proposal History
-This is my second treasury proposal.  The [first](https://dashcommunity.github.io/proposal-dash-community/) involved setting up infrastructure, content, and very basic websites for [community](https://github.com/dashcommunity) use.  In addition to the scope I proposed and delivered, I have been working on a user-friendly [web editor](https://dashcommunity.github.io/blog/compose/) for the dash community blog.  The basic functionality is complete, but several features and user workflow improvments are still in the works.  Up until now blogging activity has been limited due to the difficulty of creating and submitting entries.  Users had to use markdown syntax and make GitHub pull requests - too complicated.  When completed, the blog will be easily accessible to all.
+This is my second treasury proposal.  The [first](https://dashcommunity.github.io/proposal-dash-community/) involved setting up infrastructure, content, and very basic websites for [community](https://github.com/dashcommunity) use.  In addition to the scope I proposed and delivered, I have been working on a user-friendly [web editor](https://dashcommunity.github.io/blog/compose/) for the dash community blog.  The basic functionality is complete, but several features and user workflow improvements are still in the works.  Up until now blogging activity has been limited due to the difficulty of creating and submitting entries.  Users had to use markdown syntax and make GitHub pull requests - too complicated.  When completed, the blog will be easily accessible to all.
 
-That is just background on my past activites for Dash.  This proposal is *not* seeking reimbursement for the additional work described above, rather this is aimed at *future* work on separate project ideas, outlined below.
+That is just background on my past activities for Dash.  This proposal is *not* seeking reimbursement for the additional work described above, rather this is aimed at *future* work on separate project ideas, outlined below.
 
 ##### About Me
 I came across bitcoin in March of 2013 (just about to hit my 4-year anniversary!) and from that time on the technology and social implications have consumed me.  I managed to juggle my full-time gig with cryptocurrency as a side hobby for a while, but ultimately I conceded and left my 7-year energy efficiency engineering career behind to jump both feet into cryptocurrency.  I dusted off some old C++ and Visual Basic for Applications (VBA) skills I used in college and my last job, then went on to research the current industry trends.  Based on my research I decided learn and focus solely on JavaScript (JS) and NodeJS.  I put my new skills to public use first with the blogging platform mentioned above.  I'm now ready to start working on Dash-specific coding projects, and I want to work full time for the masternode operators.
 
 ##### Vision
-Through my research I discovered an explosive upward trend in the JS community.  It is orders of magnitude larger than the entire cryptocurrency space, and like Dash, it is growing and evolving incredibly fast.  Both Dash and JavaScript are designed (relative to their respective sibling technolgies) *specifically* to provide end users with an attractive *user experience* (UX).  This (amongst other things) makes JS essential to Dash's success.  
+Through my research I discovered an explosive upward trend in the JS community.  It is orders of magnitude larger than the entire cryptocurrency space, and like Dash, it is growing and evolving incredibly fast.  Both Dash and JavaScript are designed (relative to their respective sibling technologies) *specifically* to provide end users with an attractive *user experience* (UX).  This (amongst other things) makes JS essential to Dash's success.  
 
 The core development team is hiring JS developers to work on Evolution.  This is a great start in delivering user-friendly interfaces for Dash.  There are *many* more tools, products, and services for JS developers to build for Dash. I'd like to launch a focussed effort to attract JS developers to Dash, and start building useful tools together.  All projects will be community owned and hosted on dash community where anyone is welcome to contribute.
 
@@ -41,7 +41,7 @@ As time allows, I would like to improve and help maintain the [Dash Payment Proc
 * One-time payment of 85 DASH
   * Personal salary: 80 DASH (80 DASH/160 hrs = 0.5 DASH/hr | ~12.50 USD/hr @ 25 USD/DASH)
   * Proposal reimbursement: 5 DASH
-  * I will use part of the 80 DASH to tip JS devs as they come into the fold
+  * I will use part of the 80 DASH to tip JS developers as they come into the fold
 
 
 ### Closing
