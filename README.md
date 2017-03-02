@@ -1,4 +1,24 @@
-# Proposal - JavaScript Development and Outreach 
+# Proposal - JavaScript Development and Outreach
+
+### 2017.03.02 UPDATE
+Hello MNO's.  I’m hoping to change some minds to get this proposal passing.  To that end, I’ve taken the following initiatives: 
+
+1. I’ve clarified/refined the scope of work (SOW).
+2. I’ve obtained experienced developer resources to help me accomplish the SOW.
+
+##### Updated SOW: 
+The UI will be patterned after [BitPay’s transaction playground](https://bitcore.io/playground/#/transaction).  This will be adapted for Dash InstantSend transactions, and tailored to the features requested by core and community developers and users.  If I don’t get feedback then I can choose features I think would be useful for both developers and users.
+
+##### New Developer Resources:
+One of the prominent and influential developers referenced in my original proposal is [AJ Oneal](https://coolaj86.com/portfolio/).  [AJ](https://github.com/coolaj86?rel=author) is a long-standing panelist (co-host) for the [JavaScript Jabber](https://devchat.tv/js-jabber) podcast, which I believe is the most popular JavaScript podcast in the land, approaching 30,000 downloads per episode.  **AJ has agreed to play an advisor role** in the work that I will be doing.
+
+In terms of an actual coding resources, AJ recommended [John Storey](http://johndangerstorey.com/) very highly.  [John](https://github.com/johndangerstorey) has many years experience with JavaScript as well as the appropriate libraries for the front-end project in the SOW above (Angular and React).  John has been following blockchain space for years, and came across Dash when it was still Darkcoin.  He has also dabbled with Ethereum (solidity) programming.  John will be helping code up the SOW I've described.
+
+Both of these developers have enough interest in Dash (and this proposal/vision within Dash) to do some amount of work uncompensated, but both are very busy with projects and full-time jobs of their own, so funding would allow them to explicitly set aside time this month to perform the proposed work. 
+
+##### Price Considerations
+The price of Dash has risen from 25 to 42 USD/DASH between the time submitted and now.  This rise has allowed me to reach out to these developers and pay them.  I forsee them getting at least half of the total funding. 
+
 ### Overview
 This is a very simple proposal.  I am offering full-time coding, and JavaScript developer outreach, for Dash for the month of March.  I am requesting 85 DASH in return, which is below market rate.  See sections below for further detail.
 
