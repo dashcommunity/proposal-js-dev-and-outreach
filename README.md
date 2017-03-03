@@ -6,10 +6,10 @@ Hello MNOs.  I’m hoping to change some minds to get this proposal passing.  To
 1. I’ve clarified/refined the scope of work (SOW)
 2. I’ve obtained experienced developer resources to help me accomplish the SOW
 
-##### Updated SOW: 
+##### Updated SOW
 The UI will be patterned after [BitPay’s transaction playground](https://bitcore.io/playground/#/transaction).  This will be adapted for Dash InstantSend transactions, and tailored to the features requested by core and community developers and users.  If I don’t get feedback regarding specific feature requests, then I can choose them based on what I think would be useful for both developers and end users.
 
-##### New Developer Resources:
+##### New Developer Resources
 One of the prominent and influential developers referenced in my original proposal is [AJ Oneal](https://coolaj86.com/portfolio/).  [AJ](https://github.com/coolaj86?rel=author) is a long-standing panelist (co-host) for the [JavaScript Jabber](https://devchat.tv/js-jabber) podcast, which I believe is the most popular JavaScript podcast in the land, approaching 30,000 downloads per episode.  **AJ has agreed to play an advisor role** in the work that I will be doing.
 
 In terms of an actual coding resources, AJ recommended [John Storey](http://johndangerstorey.com/) very highly.  [John](https://github.com/johndangerstorey) has many years experience with JavaScript as well as the appropriate libraries for the front-end project in the SOW above (Angular and React).  John has been following blockchain space for years, and came across Dash when it was still Darkcoin.  He has also dabbled with Ethereum (solidity) programming.  **John will be helping code** up the SOW I've described.
